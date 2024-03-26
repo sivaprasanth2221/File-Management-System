@@ -17,7 +17,7 @@ This is a simple file management system implemented in C. It allows users to per
 
 To use this program, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/file-management-system.git`
+1. Clone the repository to your local machine using `git clone sivaprasanth2221/File-Management-System-using-c`
 2. Compile the program using a C compiler (`gcc` recommended) by running `gcc file_management_system.c -o file_management_system`
 3. Run the compiled executable by executing `./file_management_system` (on Unix/Linux) or `file_management_system.exe` (on Windows)
 
